@@ -263,6 +263,19 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2uKZMyskjeaNVXn7bVfC35pfOGw=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="RADIO",[RANDOMYT] Radio Cakra _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=67b4fa6468507b4065275b9ae2431117&cdy=142536b9b535b78e681c11b0195d962f41a474e7edc50efff0a6205bcf0d6a77
 
+# Tambahan
+#EXTINF:-1 group-title="[RANDOMYT]" tvg-logo="http://202.74.236.189/~uzbwkzam/img/hbo.png", HBO
+http://202.74.236.189/~uzbwkzam/1.php?q=hbo
+#EXTINF:-1 group-title="[RANDOMYT]" tvg-logo="http://202.74.236.189/~uzbwkzam/img/hbosig.png", HBO Signature
+http://202.74.236.189/~uzbwkzam/1.php?q=sig
+#EXTINF:-1 group-title="[RANDOMYT]" tvg-logo="http://202.74.236.189/~uzbwkzam/img/hbofamily.png", HBO Family
+http://202.74.236.189/~uzbwkzam/1.php?q=fam
+#EXTINF:-1 group-title="[RANDOMYT]" tvg-logo="http://202.74.236.189/~uzbwkzam/img/hbohits.png", HBO Hits
+http://202.74.236.189/~uzbwkzam/1.php?q=hits
+#EXTINF:-1 group-title="[RANDOMYT]" tvg-logo="http://202.74.236.189/~uzbwkzam/img/cinemax.png", CINEMAX
+http://202.74.236.189/~uzbwkzam/1.php?q=max
+#EXTINF:-1 tvg-id="redbyhbo" group-title="[RANDOMYT]" tvg-logo="http://202.74.236.189/~uzbwkzam/img/redhbo.png", RED by HBO
+http://202.74.236.189/~uzbwkzam/1.php?q=red
 
 # VIDIO PREMIUM by @randomyt
 
