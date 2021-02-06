@@ -276,6 +276,8 @@ http://202.74.236.189/~uzbwkzam/1.php?q=hits
 http://202.74.236.189/~uzbwkzam/1.php?q=max
 #EXTINF:-1 tvg-id="redbyhbo" group-title="[RANDOMYT]" tvg-logo="http://202.74.236.189/~uzbwkzam/img/redhbo.png", RED by HBO
 http://202.74.236.189/~uzbwkzam/1.php?q=red
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/warner.png" group-title="[RANDOMYT]", Warner
+https://cdn11jtedge.useetv.com/joss/15/warner/chunklist_w1415686608_b1344100_sleng_kamiselaluada.m3u8?enc=aahbBsxiQmWfAApV2cEhZw&uid=YWJlZDViOGYxMWI3NzY5ODZjNjAzM2QxNWU4NDg1YTk=&exp=1612618320
 
 # VIDIO PREMIUM by @randomyt
 
